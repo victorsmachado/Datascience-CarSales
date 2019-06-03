@@ -1,4 +1,4 @@
 # datascience
-Project of data science that explore spendings of brazilian quota parliamentary in exclusives companies that indicates favoritism.
+Project of data science that explore cars sales to predict future sales based on the characteristics of the most sold cars.
 
-datas from: https://brasil.io/dataset/gastos-deputados/cota_parlamentar?search=&numano=&nummes=&datemissao=&txnomeparlamentar=&sgpartido=&sguf=&txtdescricao=&txtcnpjcpf=&txtfornecedor=&vlrliquido=
+datas from: https://www.kaggle.com/gagandeep16/car-sales/activity
